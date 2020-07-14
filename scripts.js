@@ -1,4 +1,4 @@
-$("#customerName").text("Sundeep Singh");
+$("#customerName").text("Ayodhya Parsad");
 $("#policyNumber").text("RML1200755");
 $("#startDate").text("15-Jul-2020");
 $("#endDate").text("14-Jul-2021");
